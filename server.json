@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "email": "gustavo@email.com",
+            "password": "1234",
+            "name": "Gustavo Carvalho",
+            "id": 1
+        },
+        {
+            "email": "usuario@usuario.com",
+            "password": "asdasdasd",
+            "name": "usuario",
+            "id": 2
+        },
+        {
+            "email": "usuario@usuario2.com",
+            "password": "12345678",
+            "name": "asdasdasd",
+            "id": 3
+        }
+    ]
+}
